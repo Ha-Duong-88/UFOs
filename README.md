@@ -19,12 +19,11 @@ Users can enter multiple search criteria such as date, city, state, country, sha
 
   There are two drawbacks with this design:
   1) There is no data on the number of people that witnessed the same UFO sightings to validate that they occurred.
-  2) The dataset is limited to sightings reported for one month and year (January 2010), and only for a single country (US).
+  2) The dataset is limited to sightings reported for one month and year (January 2010) and only for a single country (US).
   
   ## Recommendations 
   
   The following are recommendations to impriove the analysis and give 
- 
   1) Expand the dataset to include a broader range of dates and years for sightings.
   2) Expand the dataset to include different countries beyond the US.
   3) Include the total number of users for each sighting.
