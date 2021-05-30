@@ -1,5 +1,5 @@
 # UFOs
-JavaScript, Bootstrap, HTML
+JavaScript, Bootstrap, HTML, D3
 
 # Overview of Project
 
