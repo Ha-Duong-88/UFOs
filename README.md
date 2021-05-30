@@ -3,7 +3,8 @@ JavaScript, Bootstrap, HTML
 
 # Overview of Project
 
-Utilizing JavaScript, Bootstrap and HTML, the objective of this project was to create an interactive webpage to allow user inputs on search filters and visualize the data and analysis in a dashboard on UFO sightings.
+The objective of this project was to create an interactive web page to allow user inputs on search filters and visualize the data and analysis in a dashboard on UFO sightings utilizing JavaScript, HTML, D3, and Bootstrap.
+
 
 For this project we created a JavaScript file in Visual Studio Code IDE to filter the data contained in JavaScript data file, create a filterable table using arrow functions, and Bootstrap to stylize the appearance of the information and results from the search parameters in a webpage. Building the webpage using JavaScript and HTML required linking several JavaScript files, including D3, app.js, data.js, CSS style sheet and images to the HTML file that. D3, a JavaScript library was used to produce sophisticated and highly dynamic graphics in an HTML webpage.
 
@@ -28,7 +29,7 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
   
   ## Recommendations 
   
-  The following are recommendations to impriove the analysis and give 
+  The following are recommendations to deepen the analysis and improve the usability:
   1) Expand the filter for the dataset to include a broader range of dates and years for sightings.
   2) Expand the filter dataset to include different countries beyond the US.
   3) Include the total number of users for each sighting, if there are more than one user. Allow users to enter in their own sightings by adding data entry form.
