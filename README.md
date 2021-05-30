@@ -14,6 +14,7 @@ Visualizing data in a webpage makes it easier for users to view and interact wit
 Users can enter multiple search criteria such as date, city, state, country, shape, shape, comment on the webpage. The search can be based on a single or multiple criteria. The results will be displayed in the table in the dashboard. If the criteria does not match, the table will be empty.
 
 UFO_image1.png![image](https://user-images.githubusercontent.com/80140082/120116381-bd1e2500-c13c-11eb-96c5-913f3be96171.png)
+UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120116569-91e80580-c13d-11eb-9210-db9ce54857d3.png)
 
 
 
