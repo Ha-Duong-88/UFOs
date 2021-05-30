@@ -6,7 +6,7 @@ JavaScript, Bootstrap, HTML
 The objective of this project was to create an interactive webpage to allow user inputs on search filters and visualize the data and analysis in a dashboard on UFO sightings utilizing JavaScript, HTML, D3, and Bootstrap.
 
 
-For this project we created a JavaScript file in Visual Studio Code IDE to create table filters from data contained in a JavaScript data file, arrow functions and for loops to loop through each field in an array of objects, and used Bootstrap components to create interface elements such as buttons and data entry fields, as wells as Bootstrap's grid system to organize the webpage's content into containers, rows, and columns. The DevTools Console was also used to create and test the JavaScript and HTML code. Building the webpage using JavaScript and HTML required linking several JavaScript files, including D3, app.js, data.js, CSS style sheet and images to the HTML file. D3, a JavaScript library was used to produce sophisticated and highly dynamic graphics in an HTML web page.
+For this project we created a JavaScript file in Visual Studio Code IDE to create table filters from data contained in a JavaScript data file, arrow functions and for loops to loop through each field in an array of objects, and used Bootstrap components to create interface elements such as buttons and data entry forms, as wells as Bootstrap's grid system to organize the webpage's content into containers, rows, and columns. The DevTools Console was also used to create and test the JavaScript and HTML code. Building the webpage using JavaScript and HTML required linking several JavaScript files, including D3, app.js, data.js, CSS style sheet and images to the HTML file. D3, a JavaScript library was used to produce sophisticated and highly dynamic graphics in an HTML web page.
 
 # Results
 
@@ -16,7 +16,7 @@ Displayed below are images from the webpage with the search fields and the table
 
 UFO_image1.png![image](https://user-images.githubusercontent.com/80140082/120116381-bd1e2500-c13c-11eb-96c5-913f3be96171.png)
 
-There five different filters to choose from: the date, city, state, country and shape. Users can input a criteria for one or multiple filters in the search field. Multiple search criteria is especially useful to further inspect the data. The HTML then displays all of the sightings in a table that match that specific search. If there is no match to the search criteria, the table will be empty.
+There five different filters to choose from: the date, city, state, country and shape. Users can input a criteria for one or multiple filters in the search form (field). Multiple search criteria is especially useful to further inspect the data. The HTML then displays all of the sightings in a table that match that specific search. If there is no match to the search criteria, the table will be empty.
 
 UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120795-881dcc80-c154-11eb-8a3a-b39e5954b126.png)
 
