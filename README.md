@@ -16,8 +16,8 @@ Users can enter search criteria such as date, city, state, country, shape, shape
 Displayed below are images from the webpage with the search fields and the table of the results.
 
 UFO_image1.png![image](https://user-images.githubusercontent.com/80140082/120116381-bd1e2500-c13c-11eb-96c5-913f3be96171.png)
-UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120116569-91e80580-c13d-11eb-9210-db9ce54857d3.png)
 
+UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120795-881dcc80-c154-11eb-8a3a-b39e5954b126.png)
 
 
 # Summary
