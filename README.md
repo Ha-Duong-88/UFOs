@@ -27,5 +27,5 @@ Users can enter multiple search criteria such as date, city, state, country, sha
  
   1) Expand the dataset to include a broader range of dates and years for sightings.
   2) Expand the dataset to include different countries beyond the US.
-  3) Include the number of users for each sighting.
+  3) Include the total number of users for each sighting.
   
