@@ -11,7 +11,7 @@ For this project we created a JavaScript file in Visual Studio Code IDE to filte
 
 Visualizing data in a webpage makes it easier for users to view and interact with dynamically rendered data and analysis.
 
-Users can enter multiple search criteria such as date, city, state, country, shape, shape, comment on the webpage. The search can be based on a single or multiple criteria. The results will be displayed in the table in the dashboard. If the criteria does not match, the table will be empty.
+Users can enter search criteria such as date, city, state, country, shape, shape, comment on the webpage. The search can be based on a single or multiple criteria. The results will be displayed in the table in the dashboard. If the criteria does not match, the table will be empty.
 
 Displayed below are images from the webpage with the search fields and the table of the results.
 
