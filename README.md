@@ -24,7 +24,7 @@ Users can enter multiple search criteria such as date, city, state, country, sha
   ## Recommendations 
   
   The following are recommendations to impriove the analysis and give 
-  1) Expand the dataset to include a broader range of dates and years for sightings.
-  2) Expand the dataset to include different countries beyond the US.
-  3) Include the total number of users for each sighting.
+  1) Expand the filter for the dataset to include a broader range of dates and years for sightings.
+  2) Expand the filter dataset to include different countries beyond the US.
+  3) Include the total number of users for each sighting. Allow users to enter in their own sightings.
   
