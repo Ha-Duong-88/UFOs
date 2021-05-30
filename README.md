@@ -31,8 +31,8 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
   
   The following are recommendations to deepen the analysis and improve the usability:
   1) Expand the filter for the dataset to include a broader range of dates and years for sightings.
-  2) Expand the filter dataset to include different countries beyond the US.
-  3) Include the total number of users for each sighting, if there are more than one user. Allow users to enter in their own sightings by adding data entry form.
+  2) Expand the dataset to include different countries beyond the US.
+  3) Include the total number of users for each sighting if there are more than one user. Allow users to enter in their own sightings by adding data entry form.
   5) Add an 'update' button after each search field or at the end of the search fields to update the table. This will make it clearer to users to be able to see          that the data has been refreshed once the search parameters are entered. 
   6) Review American Disability Act guidelines to ensure that the web page is ADA compliant.
   
