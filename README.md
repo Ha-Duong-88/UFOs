@@ -13,7 +13,7 @@ Visualizing data in a webpage makes it easier for users to view and interact wit
 
 Users can enter multiple search criteria such as date, city, state, country, shape, shape, comment on the webpage. The search can be based on a single or multiple criteria. The results will be displayed in the table in the dashboard. If the criteria does not match, the table will be empty.
 
-Displayed below are images from the webpage and the search fields.
+Displayed below are images from the webpage with the search fields and the table of the results.
 
 UFO_image1.png![image](https://user-images.githubusercontent.com/80140082/120116381-bd1e2500-c13c-11eb-96c5-913f3be96171.png)
 UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120116569-91e80580-c13d-11eb-9210-db9ce54857d3.png)
@@ -32,5 +32,6 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120116
   1) Expand the filter for the dataset to include a broader range of dates and years for sightings.
   2) Expand the filter dataset to include different countries beyond the US.
   3) Include the total number of users for each sighting, if there are more than one user. Allow users to enter in their own sightings by adding data entry form.
-  5) Add a button after the search field to make it clearer to users that the data is being updated. This will make it clearer data is being refreshed after the          search.
+  5) Add an 'update' button after each search field or at the end of the search fields to update the table. This will make it clearer to users to be able to see          that the data has been refreshed once the search parameters are entered. 
+  6) Review Americanb Disability Act guidelines to ensure that the website is ADA compliant.
   
