@@ -31,6 +31,6 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120116
   The following are recommendations to impriove the analysis and give 
   1) Expand the filter for the dataset to include a broader range of dates and years for sightings.
   2) Expand the filter dataset to include different countries beyond the US.
-  3) Include the total number of users for each sighting. Allow users to enter in their own sightings.
-  4) Add a button after the search field to make it clearer to users that the data is being updated. This will make it clearer data is being refreshed after the      search.
+  3) Include the total number of users for each sighting, if there are more than one user. Allow users to enter in their own sightings by adding data entry form.
+  5) Add a button after the search field to make it clearer to users that the data is being updated. This will make it clearer data is being refreshed after the          search.
   
