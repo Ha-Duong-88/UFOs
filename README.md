@@ -27,4 +27,5 @@ Users can enter multiple search criteria such as date, city, state, country, sha
   1) Expand the filter for the dataset to include a broader range of dates and years for sightings.
   2) Expand the filter dataset to include different countries beyond the US.
   3) Include the total number of users for each sighting. Allow users to enter in their own sightings.
+  4) Add a button after the search field to make it clearer to users that the data is being updated. This will make it clearer to users that the data is being            refreshed after the search.
   
