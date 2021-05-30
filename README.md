@@ -12,13 +12,11 @@ For this project we created a JavaScript file in Visual Studio Code IDE to creat
 
 Visualizing data in a webpage makes it easier for users to view and interact with dynamically rendered data and analysis.
 
-Users can enter search criteria such as date, city, state, country, shape, shape, comment on the webpage. The search can be based on a single or multiple criteria. The results will be displayed in the table in the dashboard. If the criteria does not match, the table will be empty.
-
-Displayed below are images from the webpage with the search fields and the table to display the results.
+Displayed below are images from the webpage with the search fields and the table to display the results. A title and concise description of the purpose of the webpage greets users when they land on the page. They are enticed to explore the data.
 
 UFO_image1.png![image](https://user-images.githubusercontent.com/80140082/120116381-bd1e2500-c13c-11eb-96c5-913f3be96171.png)
 
-There five different filters to choose from: the date, city, state, country and shape. User can input a search criteria for one or multiple filters in the search field. Multiple search criteria is especially useful to further inspect the data. The HTML then displays all of the sightings that match that specific search. 
+There five different filters to choose from: the date, city, state, country and shape. Users can input a criteria for one or multiple filters in the search field. Multiple search criteria is especially useful to further inspect the data. The HTML then displays all of the sightings in a table that match that specific search. If there is no match to the search criteria, the table will be empty.
 
 UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120795-881dcc80-c154-11eb-8a3a-b39e5954b126.png)
 
@@ -26,7 +24,7 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
 # Summary
 
   There are several drawbacks with this design:
-  1) There is no data on the number of people that witnessed the same UFO sightings to validate that they occurred.
+  1) There is no data on the number of people that witnessed the same UFO sightings to corrobate that they occurred.
   2) The dataset is limited to sightings reported for one month and year (January 2010) and only for a single country (US).
   3) The lack of an 'update' or 'search' button does not make it obvious to users that the search was successful and the data returned matched the criteria entered.   4) The placeholder information in the search fields could lead users to assume that the data in the table reflects the search parameters. As the default table          displays all of the sightings, the placeholder search criteria creates ambiguity for users.
   
@@ -35,7 +33,7 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
   The following are recommendations to deepen the analysis and improve the user experience:
   1) Expand the filter for the dataset to include a broader range of dates and years for the sightings.
   2) Expand the dataset to include different countries where sightings have been reported beyond the US to increase the sample set size and deepen the analysis that      UFO sightings are witnessed world-wide.
-  3) Allow users to enter in their own sightings by adding search entry form and include the total number of users for each sighting if there are more than one     
+  3) Allow users to enter in their own sightings by adding a search entry form and include the total number of users for each sighting if there are more than one   
      user.
   4) Add an 'update' or 'search' button after each each search field or at the end of the last search field that users can click to update the table once they   
      enter their search criteria. This will make it clearer to users that the table has been refreshed once the search parameters are entered. 
