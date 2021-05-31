@@ -39,7 +39,7 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
      user.
   4) Add an 'update' or 'search' button after each each search field or at the end of the last search field that users can click to update the table once they   
      enter their search criteria. This will make it clearer to users that the table has been refreshed once the search parameters are entered. 
-  5) Add dynamic charts with D3 to show statistics for the sightings. For example, a chart to summarize the the total number and average number of sightings on a  
+  5) Add dynamic charts with D3 to show statistics for the sightings. For example, a chart to summarize the the total and average number of sightings on a  
      given date, city, country, shape and duration.
   7) Remove the search criteria placeholders from the HTML code to avoid confusion.
   8) Review the American Disability Act guidelines to ensure that the web page is ADA compliant. 
