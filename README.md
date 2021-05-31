@@ -12,7 +12,7 @@ For this project we created a webpage with HTML and a JavaScript file in Visual 
 
 Visualizing data in a webpage makes it easier for users to view and interact with dynamically rendered data and analysis.
 
-Displayed below are images from the webpage with the search fields and the table to display the results. A title and concise description of the purpose of the webpage greets users when they land on the page. They are enticed to explore the data.
+Displayed below are images from the webpage with the search fields and the table to display the results. A title and concise description of the purpose of the webpage greet users when they land on the page. They are enticed to explore the data.
 
 UFO_image1.png![image](https://user-images.githubusercontent.com/80140082/120116381-bd1e2500-c13c-11eb-96c5-913f3be96171.png)
 
