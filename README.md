@@ -27,7 +27,8 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
   There are several drawbacks with this design:
   1) There is no data on the number of people that witnessed the same UFO sighting to corrobate that they occurred.
   2) The dataset is limited to sightings reported for one month and year (January 2010) and only for a single country (US).
-  3) The lack of an 'update' or 'search' button does not make it obvious to users that the search was successful and the data returned matched the criteria entered.   4) The placeholder information in the search fields could lead users to assume that the data in the table reflects the search parameters. As the default table          displays all of the sightings, the placeholder search criteria creates ambiguity for users.
+  3) The lack of an 'update' or 'search' button does not make it obvious to users that the search was successful and the data returned matched the criteria entered.
+  4) The placeholder information in the search fields could lead users to assume that the data in the table reflects the search parameters. As the default table          displays all of the sightings, the placeholder search criteria creates ambiguity for users.
   
   ### Recommendations 
   
