@@ -6,7 +6,7 @@ JavaScript, Bootstrap, HTML, D3
 The objective of this project was to create an interactive webpage to allow user inputs on search filters on UFO sightings and be able to visualize the data and analysis in a dashboard utilizing JavaScript, HTML, D3, and Bootstrap.
 
 
-For this project we created a JavaScript file in Visual Studio Code IDE to create table filters from data contained in a JavaScript data file, arrow functions and for loops to loop through each field in an array of objects, and used Bootstrap components to create interface elements such as buttons and data entry forms, and  Bootstrap's grid system to organize the webpage's content into containers, rows, and columns. D3, a JavaScript library was also used to produce an appealing and dynamic graphics in an HTML web page. The DevTools Console was also used to create and test the JavaScript and HTML code. Building the webpage using JavaScript and HTML required linking several JavaScript files, including D3, app.js, data.js, CSS style sheet and images to the HTML file. 
+For this project we created a JavaScript file in Visual Studio Code IDE to create table filters from data contained in a JavaScript data file, arrow functions and for loops to loop through each field in an array of objects, and used Bootstrap components to create interface elements such as buttons and data entry forms, and  Bootstrap's grid system to organize the webpage's content into containers, rows, and columns. D3, a JavaScript library was used to produce an appealing and dynamic visualization in an HTML web page. The DevTools Console was also used to create and test the JavaScript and HTML code. Building the webpage using JavaScript and HTML required linking several JavaScript files, including D3, app.js, data.js, CSS style sheet and images to the HTML file. 
 
 # Results
 
@@ -25,7 +25,7 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
 
   ### Opprtunity Areas
   There are several drawbacks with this design:
-  1) There is no data on the number of people that witnessed the same UFO sightings to corrobate that they occurred.
+  1) There is no data on the number of people that witnessed the same UFO sighting to corrobate that they occurred.
   2) The dataset is limited to sightings reported for one month and year (January 2010) and only for a single country (US).
   3) The lack of an 'update' or 'search' button does not make it obvious to users that the search was successful and the data returned matched the criteria entered.   4) The placeholder information in the search fields could lead users to assume that the data in the table reflects the search parameters. As the default table          displays all of the sightings, the placeholder search criteria creates ambiguity for users.
   
@@ -38,8 +38,8 @@ UFO_image2.png![image](https://user-images.githubusercontent.com/80140082/120120
      user.
   4) Add an 'update' or 'search' button after each each search field or at the end of the last search field that users can click to update the table once they   
      enter their search criteria. This will make it clearer to users that the table has been refreshed once the search parameters are entered. 
-  5) Add dynamic charts to show statistics for the sightings. For example, a chart to summarize the frequency of sightings on a given date, city, country, shape,
-     and duration.
+  5) Add dynamic charts with D3 to show statistics for the sightings. For example, a chart to summarize the the total number and average number of sightings on a  
+     given date, city, country, shape and duration.
   7) Remove the search criteria placeholders from the HTML code to avoid confusion.
   8) Review the American Disability Act guidelines to ensure that the web page is ADA compliant. 
   
